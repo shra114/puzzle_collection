@@ -6,21 +6,21 @@ Heading : Puzzles 500
 // Comment Q I O S should be in order, If there are no options leave O empty
 // If no image then leave I empty 
 Q Black to play
-I /Users/shravankumar/Desktop/chess/puzzles/screenshots/puzlow/puz_low_001_001.png
+I puz_low_001_001.png
 O 
 S 
 /endq
 
 /startq
 Q Black to play
-I /Users/shravankumar/Desktop/chess/puzzles/screenshots/puzlow/puz_low_001_002.png
+I puz_low_001_002.png
 O 
 S 
 /endq
 
 /startq
 Q Black to play
-I /Users/shravankumar/Desktop/chess/puzzles/screenshots/puzlow/puz_low_001_003.png
+I puz_low_001_003.png
 O 
 S 
 /endq
